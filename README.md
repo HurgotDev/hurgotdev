@@ -1,58 +1,65 @@
 <div align="center">
-  <img src="URL_DE_TU_IMAGEN_DE_PERFIL" width="150" alt="Tu nombre">
-  <h1>¡Hola! Soy [Tu Nombre]</h1>
-  <p>Soy un [Tu Título o Rol, ej. Desarrollador Web, Ingeniero de Software] con pasión por [Menciona un campo específico, ej. el frontend, el backend, la ciberseguridad].</p>
+  <img src="https://hurgotdev.github.io/portfolio/hugo.webp" width="150" alt="Hugo Gutiérrez">
+  <h1>¡Hola! Soy Hugo Gutiérrez</h1>
+  <p>Ingeniero en Sistemas, Tech Lead y desarrollador FullStack especializado en la creación de soluciones digitales innovadoras para optimizar procesos y mejorar el rendimiento de los productos.</p>
+  <p>Poseo habilidades destacadas en liderazgo, planificación estratégica y ejecución técnica, con un enfoque ágil para entregar proyectos exitosos.</p>
 </div>
 
 ---
 
 ### 💻 Habilidades y tecnologías
 
-Aquí puedes destacar las tecnologías y herramientas que dominas. Puedes usar iconos para que se vea más visual.
+A lo largo de mi carrera, he trabajado con una amplia variedad de tecnologías y metodologías.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,python,docker,mongodb,postgresql,mysql,aws,github,javascript,typescript,tailwind,git,express,scrum" />
 </p>
 
 ---
 
 ### 🚀 Proyectos destacados
 
-Muestra algunos de tus mejores proyectos. ¡No olvides incluir un enlace y una pequeña descripción!
+Aquí puedes encontrar algunos de mis proyectos más recientes y significativos.
 
-#### **[Nombre del Proyecto 1]**
-> Una breve descripción del proyecto, por ejemplo: "Una aplicación de gestión de tareas construida con React y Node.js."
-> 
-> - **Tecnologías:** [Tecnología 1, Tecnología 2, Tecnología 3]
+#### **Profezac**
+> Desarrollo de una app de aprendizaje de idiomas estilo Duolingo, con características de gamificación y tableros de liderazgo para incentivar el progreso de los usuarios.
+>
+> - **Tecnologías:** React, Next.js, Node.js. (Información extraída de tus habilidades para este tipo de proyecto, no disponible en la fuente)
 > - [**Ver Demo**](URL_DE_LA_DEMO)
 > - [**Ver Repositorio**](URL_DEL_REPOSITORIO)
 
-#### **[Nombre del Proyecto 2]**
-> Una breve descripción del segundo proyecto, por ejemplo: "Mi portafolio personal, diseñado y desplegado con Astro y Tailwind CSS."
-> 
-> - **Tecnologías:** [Tecnología 1, Tecnología 2]
-> - [**Ver Sitio Web**](URL_DE_TU_SITIO)
+#### **Portal Administrativo para Academia de Belleza**
+> Diseñé y desarrollé una solución en Next.js para gestionar estudiantes, profesores, matrículas y pagos, mejorando la eficiencia administrativa.
+>
+> - **Tecnologías:** Next.js.
+> - [**Ver Demo**](URL_DE_LA_DEMO)
+> - [**Ver Repositorio**](URL_DEL_REPOSITORIO)
+
+#### **Bicosa**
+> Software a medida para la gestión de producción en manufacturas de prendas de vestir, optimizando procesos operativos e integrando control de inventarios.
+>
+> - **Tecnologías:** Python, SQL (Información extraída de tus habilidades, no disponible en la fuente)
+> - [**Ver Demo**](URL_DE_LA_DEMO)
 > - [**Ver Repositorio**](URL_DEL_REPOSITORIO)
 
 ---
 
 ### 🌐 Conéctate conmigo
 
-Puedes dejar enlaces a tus redes sociales profesionales para que otros puedan contactarte.
+Puedes contactarme a través de mis redes o visitar mi portafolio para saber más sobre mi trabajo.
 
 <p align="center">
-  <a href="URL_DE_TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="URL_DE_TU_TWITTER_O_X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
-  <a href="URL_DE TU_PORTAFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portafolio"></a>
+  <a href="https://www.linkedin.com/in/hug0g/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://hurgotdev.github.io/portfolio/"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portafolio"></a>
 </p>
 
 ---
 
 ### 📈 Mis estadísticas de GitHub
 
-Una sección opcional, pero que añade un toque extra.
+Una sección para ver mi actividad y contribuciones en GitHub.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=vue" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=vue&hide_border=true" alt="Racha de contribuciones">
+  <img src="https://github-readme-stats.vercel.app/api?username=hurgotdev&show_icons=true&theme=vue" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hurgotdev&theme=vue&hide_border=true" alt="Racha de contribuciones">
 </p>
